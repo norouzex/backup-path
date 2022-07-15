@@ -1,7 +1,7 @@
-# backup
-with this app we can copied folders and file from a directory to another directory with zero size !
+# back up
+With this program, you can copy your files and folders from one directory and save them in another directory with zero size!.
 
-if you need backup of folders and file name you can use this app
+If you need to back up the names of your files and you care about folders and you don't want to spend a lot of time copying the contents of the files, you can use this software.
 
 ******************************************************************
 
@@ -27,13 +27,13 @@ if you need backup of folders and file name you can use this app
 
 # Warning 
 
-windows have 256 charaters limit to create folder
+Windows has a limit of 256 characters to create a folder
 
 *for solving this problem :*
 
 open registry Editor and go to 
 
-Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem\LongPathsEnabled
+**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem\LongPathsEnabled**
 
 and change "value data" from 0 to 1
 
