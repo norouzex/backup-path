@@ -33,7 +33,7 @@ Windows has a limit of 256 characters to create a folder
 
 open registry Editor and go to 
 
-**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem\LongPathsEnabled**
+`Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem\LongPathsEnabled`
 
 and change "value data" from 0 to 1
 
