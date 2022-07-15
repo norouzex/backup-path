@@ -45,7 +45,7 @@ if arr[2]=="one":
         [sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.Button("Submit", button_color=('white', 'green'),border_width=5) , sg.Button("Cancel",button_color=('white', 'red'),border_width=5)],
         [sg.T("")],
         [sg.T("")],
-        [sg.Text("produce by norouzy_mohamad    16/7/2021",text_color='white', font='Courier 8')]
+        [sg.Text("produce by norouzy    16/7/2021",text_color='white', font='Courier 8')]
     ]
 elif arr[2]=="mul":
     layout = [
@@ -75,7 +75,7 @@ else:
         [sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.Button("Submit", button_color=('white', 'green')) , sg.Button("Cancel",button_color=('white', 'red'))],
         [sg.T("")],
         [sg.T("")],
-        [sg.Text("produce by norouzy_mohamad    16/7/2021",text_color='white', font='Courier 8')]
+        [sg.Text("produce by norouzy    16/7/2021",text_color='white', font='Courier 8')]
     ]
 flag=0
 
