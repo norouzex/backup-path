@@ -60,7 +60,7 @@ elif arr[2]=="mul":
         [sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.T(""),sg.Button("Submit", button_color=('white', 'green')) , sg.Button("Cancel",button_color=('white', 'red'))],
         [sg.T("")],
         [sg.T("")],
-        [sg.Text("produce by norouzy_mohamad    16/7/2021",text_color='white', font='Courier 8')]
+        [sg.Text("produce by norouzy    16/7/2021",text_color='white', font='Courier 8')]
     ]
 else:
     layout = [
